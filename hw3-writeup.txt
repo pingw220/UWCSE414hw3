@@ -2,4 +2,6 @@ Based on my personal experience, I find the cloud server interface extremely con
 
 Additionally, I found the SQL editor user-friendly. Features like the run button greatly facilitate database construction. I would highly recommend this system to students, as traditional terminals can sometimes be challenging to navigate. The clear error messaging and functionality like the run button are particularly beneficial for learning SQL as a beginner. On the other hand, I would also encourage professionals to try this system. Its ability to manually adjust usage and storage offers a flexible environment for project development. However, having no experience with managing large databases, I am uncertain about its performance under the load of substantial data and queries.
 
+Lastly, just want to mention that the setup for the server is very complicated. Without instruction, I think that it is hard for user to figure out how to build a environment.
+
 The above are merely my suggestions and experiences. I hope to have more opportunities to explore this server and larger database systems in the future.
